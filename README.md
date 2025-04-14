@@ -1,66 +1,73 @@
-# 2.2-Project-Smart-Traffic-Fine-Management-System
+2.2 – Project: Smart Traffic Fine Management System
+Generally, we know that road traffic violations occur while driving. When a violation is caught by traffic police officers, a fine is issued based on the violation. Traditionally, this process is manual, involving paperwork and physical handover of the driver's license, which can be time-consuming and inefficient.
 
-Generally, we know that road traffic violations are occurring while driving on the road. If there is a violation caught by the traffic police officers, they will definitely make a fine according to the violation. So, we know that this process is based on paper works, a manual paying system, and a temporary driver has to hand over the license to a police officer and this process takes more time. Therefore, we have proposed our system to make it smart other than using the normal process. 
+Therefore, we have proposed a Smart Traffic Fine Management System to digitize and streamline this process, making it more efficient and accessible.
 
-The system has major four roles; Traffic Police Admin, Traffic Police Officer, Vehicle Driver, and Department of Motor Traffic. The police officer & vehicle driver has the mobile app & web application, traffic police admin, and department of motor traffic have the web portal.<br>
+👤 Project Roles
+The system has four major roles:
+
+Traffic Police Admin – Web Portal
+
+Traffic Police Officer – Web & Mobile App
+
+Vehicle Driver – Web & Mobile App
+
+Department of Motor Traffic – Web Portal
 
 <img src="screenshots/System Diagram.jpg"><br>
 
-## Functionalities
-✔️ User Login<br>
-✔️ User Registration<br>
-✔️ Forgot Password<br>
-✔️ Issuing New Fine<br>
-✔️ Profile Maintenance<br>
-✔️ Fine Payments Through Online Payment Gateway<br>
-✔️ User Views<br>
-✔️ Data Add, Edit, Delete, View Functionalities<br>
-✔️ Table data Search, Sort, Download (as CSV, PDF, Excel) & Print Option<br>
+✅ Functionalities
+✔️ User Login
 
-## Used Technologies
-✔️ PHP<br>
-✔️ MySQL<br>
-✔️ HTML<br>
-✔️ CSS3<br>
-✔️ JavaScript<br>
-✔️ Bootstrap<br>
-✔️ Java<br>
+✔️ User Registration
 
-## Used Tools
-✔️ Visual Studio Code<br>
-✔️ Android Studio<br>
+✔️ Forgot Password
 
-## Team Members
-| Lakshitha Dhyan  |    Chathura Ranasinghe    | Dasuni Udugama  |    Samitha Wijesekara    |
-| -------------    | ------------- | -------------    | ------------- |
-| <div align="center"><a href="https://github.com/Lakshitha99"><img src="https://i.postimg.cc/XYRRX18p/lakshitha.png" width="100" alt="Lakshitha Dhyana"></a></div>     | <div align="center"><a href="https://github.com/chathuralalinda"><img src="https://i.postimg.cc/SRvTGQvr/chathura.png" width="100" alt="Chathura Ranasinghe"></a></div>  | <div align="center"><a href="https://github.com/DasuniMaheshika"><img src="https://i.postimg.cc/1tJss683/dasuni.png" width="100" alt="Dasuni Udugama"></a></div>     | <div align="center"><a href="https://github.com/samithawijesekara"><img src="https://avatars.githubusercontent.com/u/52972807?v=4" width="100" alt="Samitha Wijesekara"></a></div>  |
-<br>
+✔️ Issuing New Fine
 
+✔️ Profile Maintenance
 
-## Web Application Screenshots
+✔️ Online Fine Payment Gateway
 
-<img src="screenshots/2.JPG"><br>
+✔️ User Dashboard & Views
 
-<img src="screenshots/3.JPG"><br>
+✔️ CRUD Operations (Add, Edit, Delete, View)
 
-<img src="screenshots/4.JPG"><br>
+✔️ Table Data: Search, Sort, Export (CSV, PDF, Excel), Print
 
-<img src="screenshots/5.JPG"><br>
+🛠️ Technologies Used
+PHP
 
-<img src="screenshots/6.JPG"><br>
+MySQL
 
-<img src="screenshots/7.JPG"><br>
+HTML5
 
-<img src="screenshots/8.JPG"><br>
+CSS3
 
-<img src="screenshots/9.JPG"><br>
+JavaScript
 
-<img src="screenshots/10.JPG"><br><br><br>
+Bootstrap
 
-## Police Officer Mobile Application Screenshots
+Java
 
-<img src="screenshots/mp1.jpg" width="200" height="auto"> <img src="screenshots/mp2.jpg" width="200" height="auto"> <img src="screenshots/mp3.jpg" width="200" height="auto"> <img src="screenshots/mp4.jpg" width="200" height="auto"><br><br><br>
+💻 Tools Used
+Visual Studio Code
 
-## Driver Mobile Application Screenshots
+Android Studio
 
-<img src="screenshots/md1.jpg" width="200" height="auto"> <img src="screenshots/md2.jpg" width="200" height="auto"> <img src="screenshots/md3.jpg" width="200" height="auto"> <img src="screenshots/mp4.jpg" width="200" height="auto"><br><br><br>
+👨‍💻 Developed By
+<div align="center">Abhinav Tripathi</div>
+<div align="center"> <a href="https://github.com/0609Abhinav"><img src="https://avatars.githubusercontent.com/u/118062185?v=4" width="100" alt="Abhinav Tripathi"></a> </div>
+🎓 B.Tech IT | Dr. A.P.J. Abdul Kalam Technical University
+
+📧 abhinavtripathi6sep@gmail.com
+
+🌐 GitHub Profile
+
+🌐 Web Application Screenshots
+<img src="screenshots/2.JPG"><br> <img src="screenshots/3.JPG"><br> <img src="screenshots/4.JPG"><br> <img src="screenshots/5.JPG"><br> <img src="screenshots/6.JPG"><br> <img src="screenshots/7.JPG"><br> <img src="screenshots/8.JPG"><br> <img src="screenshots/9.JPG"><br> <img src="screenshots/10.JPG"><br>
+
+📱 Police Officer Mobile Application Screenshots
+<img src="screenshots/mp1.jpg" width="200"> <img src="screenshots/mp2.jpg" width="200"> <img src="screenshots/mp3.jpg" width="200"> <img src="screenshots/mp4.jpg" width="200"><br>
+📱 Driver Mobile Application Screenshots
+<img src="screenshots/md1.jpg" width="200"> <img src="screenshots/md2.jpg" width="200"> <img src="screenshots/md3.jpg" width="200"> <img src="screenshots/mp4.jpg" width="200"><br>
