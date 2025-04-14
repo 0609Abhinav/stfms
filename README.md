@@ -1,4 +1,4 @@
-2.2 – Project: Smart Traffic Fine Management System
+ Project: Smart Traffic Fine Management System
 Generally, we know that road traffic violations occur while driving. When a violation is caught by traffic police officers, a fine is issued based on the violation. Traditionally, this process is manual, involving paperwork and physical handover of the driver's license, which can be time-consuming and inefficient.
 
 Therefore, we have proposed a Smart Traffic Fine Management System to digitize and streamline this process, making it more efficient and accessible.
